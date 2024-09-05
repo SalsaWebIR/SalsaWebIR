@@ -1,5 +1,6 @@
 # 💫 About Me:
 🔗 I am a web developer<br>💻 I work full stack<br>✨ I am very interested in programming
+[![](https://visitcount.itsvg.in/api?id=SalsaWebIR&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
 ## 🌐 Socials:
@@ -11,8 +12,3 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SalsaWebIR&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=SalsaWebIR&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
----
-[![](https://visitcount.itsvg.in/api?id=SalsaWebIR&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
