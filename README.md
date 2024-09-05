@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Omid Rahnama
+<h1 align = center><Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Omid Rahnama/h1>
 
 # 💫 About Me:
 🔗 I am a web developer<br>💻 I work full stack<br>✨ I am very interested in programming
