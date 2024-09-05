@@ -3,6 +3,7 @@
 
 
 ## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/telegram-%231877F2.svg?logo=telegram&logoColor=white)](https://t.me/OmidSalsa)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/omidrahnama.ir) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/salsaweb.ir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omid-rahnama-b54a21211) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/SalsaWebIR) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SalsaWebIR) 
 
 # 💻 Tech Stack:
